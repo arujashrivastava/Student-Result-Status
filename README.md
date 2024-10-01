@@ -1,6 +1,4 @@
 # Student-Result-Status
-A Java servlet-based application that processes student scores, displaying pass/fail status for each subject and calculating the overall average. Built using Jakarta Servlet API, JSP for dynamic web pages, and HTML/CSS for frontend design.
-
 This is a Java servlet-based application designed to process student scores and display their pass/fail status for each subject along with the overall average. The application is built using the Jakarta Servlet API, JSP (JavaServer Pages) for web page generation, and HTML/CSS for frontend presentation.
 
 # Features
